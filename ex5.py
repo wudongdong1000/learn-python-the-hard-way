@@ -1,7 +1,7 @@
 name = 'Zed A. Shaw'
 age = 35  # it's a lie
 height = 74.0 * 2.54  # inches
-# round() si she wu ru
+# round() 四舍五入
 weight = round(180 * 0.4536)
 eyes = 'Blue'
 teeth = 'White'
